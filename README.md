@@ -4,11 +4,11 @@ We are keeping track of how many WP groups run the workshops this year. If you'r
 
 ## Meetup Description
 
-_[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_ 
+_[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_
 
-[This is a workshop for {specific group}.] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter? Do you not know what to do with your hands? Do you want tips for dealing with questions from the audience? This session is geared to new speakers and more experienced speakers who would like more tips and tricks.   
+[This is a workshop for {specific group}.] Have you considered presenting at a WordCamp but thought you didn’t know enough or felt like an imposter? Do you not know what to do with your hands? Do you want tips for dealing with questions from the audience? This session is geared to new speakers and more experienced speakers who would like more tips and tricks.  
 
-**_***You do NOT have to have any experience in public speaking. This workshop is for all levels of experience._** 
+**_***You do NOT have to have any experience in public speaking. This workshop is for all levels of experience._**
 
 **This workshop is for you if:**
 
@@ -62,7 +62,7 @@ After completing this lesson, you will be able to:
 
 ## Teacher Notes
 
-_This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wptrainingteam/finding-a-topic-for-a-wordpress-talk#teacher-notes). It's very important. Please read it._  </div>
+_This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wptrainingteam/finding-a-topic-for-a-wordpress-talk#teacher-notes). It's very important. Please read it._
 
 ## Workshop
 
@@ -70,13 +70,13 @@ _This section repeats from the [Teacher Notes in Lesson 1](https://github.com/wp
 
 ### Practising Speaking
 
-The most important thing you can do to become a better speaker is to practise!  The more you speak - in front of a mirror, in front of friends, or in front of a room full of people - the more comfortable and the better you will become.  You can even give your talk to a friend over Skype. 
+The most important thing you can do to become a better speaker is to practise!  The more you speak - in front of a mirror, in front of friends, or in front of a room full of people - the more comfortable and the better you will become.  You can even give your talk to a friend over Skype.
 
-You can also video record yourself. Take notes on behaviors you exhibit while speaking, then practice reducing them. 
+You can also video record yourself. Take notes on behaviors you exhibit while speaking, then practice reducing them.
 
-When you practice, time yourself.  You might be surprised by how long or short your talk is when you are speaking out loud, and it is important to know how long your talk is going to take. 
+When you practice, time yourself.  You might be surprised by how long or short your talk is when you are speaking out loud, and it is important to know how long your talk is going to take.
 
-If you're looking for opportunities to practice speaking, you might see if there is a Toastmasters in your area. They will provide you with many opportunities to speak in front of a supportive group of people, and give you tips and tools for improvement. 
+If you're looking for opportunities to practice speaking, you might see if there is a Toastmasters in your area. They will provide you with many opportunities to speak in front of a supportive group of people, and give you tips and tools for improvement.
 
 You can also practise at smaller meetups. WordPress meetups are good for practising for WordCamps. If you want to practise for WordPress meetups, you could find smaller related meetups who would be interested in hearing about your WordPress topic.  
 
@@ -104,9 +104,9 @@ No matter how much public speaking experience you have, there is always room for
 
 ### Handling Nerves
 
-Everyone gets nervous about public speaking.  It is a part of being human.  In fact, it's hard-wired: for our cavemen ancestors, any time more than 5 pairs of eyes were looking at them at once, that meant that in all likelihood they were about to die.  We still react that way when we get up in front of a group of people and see them all watching us. 
+Everyone gets nervous about public speaking.  It is a part of being human.  In fact, it's hard-wired: for our cavemen ancestors, any time more than 5 pairs of eyes were looking at them at once, that meant that in all likelihood they were about to die.  We still react that way when we get up in front of a group of people and see them all watching us.
 
-Keep in mind that your audience is on your side – they want to see you succeed, and all of them would be nervous if they were in your shoes.  In fact, it’s okay to admit that you are nervous – people will be sympathetic. 
+Keep in mind that your audience is on your side – they want to see you succeed, and all of them would be nervous if they were in your shoes.  In fact, it’s okay to admit that you are nervous – people will be sympathetic.
 
 Here are some things you can do to help soothe your nerves:
 
@@ -136,15 +136,13 @@ Some people prefer to take questions throughout their talk rather than holding 
 
 If you're saving Q&A until the end, don't forget to do it once you finish your talk! To remind yourself, you can add a slide at the end of your talk saying thanks and asking for questions.
 
-<div class="postcontent">
-
 #### **Repeat the Question Back to the Audience**
 
-Unless the audience is mic'ed, repeat each question before answering. Your audience and anyone later watching the video (if your talk is being recorded) will thank you. 
+Unless the audience is mic'ed, repeat each question before answering. Your audience and anyone later watching the video (if your talk is being recorded) will thank you.
 
-**Tricky Questions** 
+**Tricky Questions**
 
-Often speakers who are brand new to public speaking, and even ones that aren't, are nervous about getting asked a question that they feel they don't know the answer to or that has a tricky answer. 
+Often speakers who are brand new to public speaking, and even ones that aren't, are nervous about getting asked a question that they feel they don't know the answer to or that has a tricky answer.
 
 There are a few ways to handle that situation:
 
@@ -180,23 +178,23 @@ Once the Q&A is over, let people know how to connect with you once you're done a
 
 ### Getting post-talk feedback
 
-We often forget this part of the process, but getting feedback after your talk is really important if you ever want to get better at public speaking. 
+We often forget this part of the process, but getting feedback after your talk is really important if you ever want to get better at public speaking.
 
-You want to get feedback about both your content and your speaking style. You want feedback about whether your content was interesting, well organized, easy to follow, etc. This is true whether you plan to ever give this same talk again or not because a lot of the knowledge gained can be generalized.  You also want to know about your speaking technique: How was the pace, volume, approachability, etc. 
+You want to get feedback about both your content and your speaking style. You want feedback about whether your content was interesting, well organized, easy to follow, etc. This is true whether you plan to ever give this same talk again or not because a lot of the knowledge gained can be generalized.  You also want to know about your speaking technique: How was the pace, volume, approachability, etc.
 
-Where can you get feedback?  Ask conference organizers if they send out a survey, and whether you can see your own feedback. Ask people you know who were there for feedback. The more specific your questions the better the feedback you will get. (Don’t ask “What did you think,” ask “Was there something you thought could have been better? Could you hear me? Did I speak too quickly or too slowly?" etc). 
+Where can you get feedback?  Ask conference organizers if they send out a survey, and whether you can see your own feedback. Ask people you know who were there for feedback. The more specific your questions the better the feedback you will get. (Don’t ask “What did you think,” ask “Was there something you thought could have been better? Could you hear me? Did I speak too quickly or too slowly?" etc).
 
 Keep in mind that asking people for feedback directly will be different from asking organizers for the feedback that was sent to them. People tend to be softer and kinder when speaking to you, as opposed to when they think that their feedback is only going to organizers.
 
 ### Practice Giving A Short Talk
 
-_(If they are not already, students should be arranged theater-style, with the speaker standing at the front of the room and everyone's chairs facing the speaker.)_ 
+_(If they are not already, students should be arranged theater-style, with the speaker standing at the front of the room and everyone's chairs facing the speaker.)_
 
-Since practice is the most important thing you can do to become a better speaker, we're going to take this opportunity to practice. 
+Since practice is the most important thing you can do to become a better speaker, we're going to take this opportunity to practice.
 
-I am going to give you a list of questions.  Choose one of these questions, and write down a few things you can say to answer the question.  Then come to the front of the room and talk about it for 2 minutes. _(If you have time, students can talk for longer.)_ 
+I am going to give you a list of questions.  Choose one of these questions, and write down a few things you can say to answer the question.  Then come to the front of the room and talk about it for 2 minutes. _(If you have time, students can talk for longer.)_
 
-For this exercise, content doesn't matter.  We will not be critiquing anything you say.  You don't have to say anything interesting. This is just to give you a chance to practice.  You may request receiving feedback if you wish. The group will give you some positive feedback and constructive criticism. 
+For this exercise, content doesn't matter.  We will not be critiquing anything you say.  You don't have to say anything interesting. This is just to give you a chance to practice.  You may request receiving feedback if you wish. The group will give you some positive feedback and constructive criticism.
 
 List of questions:
 
@@ -216,10 +214,10 @@ Before each one starts:
 * "What are three things this person did well?"
 * When you have three things, ask "What are three things this person could have done better?"
 
-Try to make sure that the feedback is offered as helpful constructive critique, not as harsh criticism - you can do this by offering the first critique.) 
+Try to make sure that the feedback is offered as helpful constructive critique, not as harsh criticism - you can do this by offering the first critique.)
 
 ### Sign Up
 
-_Do this conclusion once per workshop lessons meetup_ 
+_Do this conclusion once per workshop lessons meetup_
 
 Thank you for attending today. We will be passing a sign up sheet (or you will receive an email). If you are interested in speaking at an event,  please sign up to let us know. This is not a commitment, but we will get in touch with you to discuss the possibility of speaking at an upcoming meetup or WordCamp.
