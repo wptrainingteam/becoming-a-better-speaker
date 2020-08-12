@@ -136,8 +136,6 @@ Some people prefer to take questions throughout their talk rather than holding 
 
 If you're saving Q&A until the end, don't forget to do it once you finish your talk! To remind yourself, you can add a slide at the end of your talk saying thanks and asking for questions.
 
-<div class="postcontent">
-
 #### **Repeat the Question Back to the Audience**
 
 Unless the audience is mic'ed, repeat each question before answering. Your audience and anyone later watching the video (if your talk is being recorded) will thank you. 
